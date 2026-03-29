@@ -14,7 +14,7 @@ The central concept is to build an Android app that allows the user navigate thr
 
 ## Dependencies and frameworks
 
-- Unity 2018
+- Unity
 - Vuforia
-- Android SDK (Android 7.0 and 7.1)
+- Android SDK
 - JDK
