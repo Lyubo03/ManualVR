@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lego
+  - step_counter
+  - step_1
+  - step_2
+  - step_3
+  - step_4
+  - step_5
+  - step_6
+  - step_7
+  - step_8
+  - step_9
+  - step_10
+  - step_11
+  - step_0
+  - step_selector
+  - slots
+  - piece_1
+  - slot_1
+  - slot_2
+  - slot_3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
